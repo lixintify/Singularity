@@ -1,0 +1,1 @@
+ document.addEventListener('click', () => {document.getElementById('alphabet').play();}, { once: true});

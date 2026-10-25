@@ -1,0 +1,90 @@
+
+@font-face { 
+    font-family: myFont;
+    src: url(Singularity-Regular.ttf); 
+}
+
+@font-face {
+    font-family: stab;
+    src: url(LEDLIGHT.otf);
+}
+
+@font-face {
+    font-family: two;
+    src: url(Acidic.TTF);
+}
+
+footer { 
+    text-align:center;
+    color: #575757; 
+    font-family: myFont;
+    font-size: 450%;
+}
+
+h1 {
+    text-align: center;
+    color: #000000;
+    font-family: stab;
+    font-size: 350%;
+      
+}
+
+h2 {
+    text-align: center;
+    color: #000000;
+    font-family: stab;
+    font-size: 350%;
+      
+}
+
+h3 {text-align: center;
+    color: #000000;
+    font-family: two;
+    font-size: 200%;
+
+}
+p {
+    text-align: center;
+    color: #000000;
+    font-family: two;
+    font-size: 150%;
+    
+
+}
+
+form {
+    text-align: center;
+    color: #000000;
+    font-family: two;
+    font-size: 150%;
+
+}
+
+input {
+    background-color: #e9e9e9;
+    width: 20%;
+    padding: 10px;
+    border: 100px;
+    border-radius: 8px;
+}
+
+button {
+    align-items: center;
+    align-self: center;
+    background-color: #999999;
+    width: 7%;
+    padding: 10px;
+    border: 100px;
+    border-radius: 8px;
+    text-decoration-color: #e9e9e9; 
+}
+   
+
+body {
+ background-image: url(butterwqdw-photoaidcom-blur-2.jpg);
+ background-repeat: no-repeat; 
+ background-position: center;
+ background-attachment:fixed ;
+ background-size: 50%;
+
+}
